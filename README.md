@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibmahesar" alt="shahzaibmahesar" /></a> </p>
 
-- 🔭 I’m currently working on **Amazone-Clone**
+- 🔭 I’m currently working on **Netflix-clone**  Link : https://shahzaib-stream.netlify.app/
 
-- 🌱 I’m currently learning **AI ML**
+- 🌱 I’m currently learning  **AI ML**
 
-- 👯 I’m looking to collaborate on **Netflix-clone**
+- 👯 I’m looking to collaborate on **Text to speach Agent**
 
 - 👨‍💻 All of my projects are available at [https://its-shahzaib.netlify.app/](https://its-shahzaib.netlify.app/)
 
